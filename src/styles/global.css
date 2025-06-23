@@ -32,6 +32,10 @@ body {
   @apply rounded-md bg-white dark:bg-slate-900;
 }
 
+.card .icon {
+  @apply bg-gray-100 border-gray-200 dark:bg-slate-800 border dark:border-gray-700;
+}
+
 .pagination-links a {
   @apply bg-white dark:bg-slate-900;
 }
